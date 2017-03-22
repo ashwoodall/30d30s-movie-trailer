@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Boogaloo');
 
 body {
-		background: #9fa1a0 url(../images/duck.jpg);
+		background: #9fa1a0 url(../images/duck.JPG);
 		background-attachment: fixed;
     font-family: 'Boogaloo', cursive;
     color: #0c0c0c;
@@ -27,7 +27,6 @@ p {
 	justify-content: center;
 	flex-direction: row;
 	align-items: center;
-
 }
 
 /* Portrait and Landscape */
